@@ -1,0 +1,290 @@
+SDLC
+    Software Development Life Cycle
+        - Analysis                  = 30%   20%  20%   25%  25%  35%   15%  10%  30
+        - Design                    = 10%   20%  15%   25%  15%  15%   15%  10%  30
+        - Implementation            = 30%   30%  40%   25%  15%  20%   50%  40%  20-30
+        - Testing                   = 15%   15%  10%   15%  40%  15%   10%  30%  5-10
+        - Deployment                = 15%   15%  15%   10%  5%   15%   10%  10%  5-10
+
+                                    = 100%
+        - Maintenance
+
+        Steps:
+            Costing
+            Man power
+            Architect
+            Design (Interior / Exterior)
+            Raw Materials
+            Approvals
+
+Developer - Analysing the Requirements
+Programmer - Sequencing the steps
+Coder - Implement
+
+Project
+    - Construction of a Building/Classroom
+
+    - Step 1: 10:20 (15mins)
+        Costing (raw materials, wages, hiring/rentals, acquiring)
+        Man power (labourers, supervisors, security)
+        Architect (engg)
+        Design (Interior / Exterior)
+        Raw Materials
+            (steels, iron, bricks, cement, sand, aggregates, water, chemicals, paint, electricals, plumbing, wood, tables, chairs, a/c, sanitory, decorations)
+        Approvals
+        Location
+
+    - Step 2 (sequencing): 10:42 ( Pseudo Code - Human Understandable Language )
+        Location
+        Project Plan
+        Costing
+        Approvals
+        Man Power
+        Raw Materials
+        Build
+        QA
+        Delivery / Handover
+
+
+Template Conversion into Web Page
+    - Step 1
+        - layout
+        - content
+        - assets
+        - platform
+        - colors
+        - background color
+        - text / size / style
+        - pictures
+    
+    - Step 2 ( Pseudo Code )
+        - Layout
+            - 8 Rows
+                - 1 row - 2 cols
+                - 2 row - 3 cols
+                - 3 row - 1 col
+                - 4 row - 3 cols
+                - 5 row - 3 cols
+                - 6 row - 1 col
+                - 7 row - 2 cols
+                - 8 row - 1 col
+
+Process:
+
+- WhatsApp
+- Assignments / Projects
+    Frontend
+        - 4-5 templates (HTML + CSS with/without Bootstrap)
+        - 4-5 templates (React)
+
+    FullStack
+        - Frontend
+        +
+        - at least 1 Full Project
+            React + Express + Node + MongoDb
+
+- Classes
+    - Sat, Sun - 10-1pm
+
+- Curriculum
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - jQuery (intro)
+    - ReactJs
+    - GitHub
+    +
+    - ExpressJs
+    - NodeJs
+    - MongoDB
+    - Git (Desktop / CLI)
+    +
+    Hosting
+        GitHub
+        Heroku
+        MongoDb Cloud
+        AWS
+
+
+
+NOTES: 30-10-2022
+
+Language
+    - Programming
+        - PHP
+        - Java
+        - .Net
+    - Scripting
+        - JavaScript
+            client
+        - TypeScript
+            client
+        - VBScript
+            server
+        - ASP
+            server
+        - JSP
+            server
+    - Markup
+        - Placeholder
+            - HTML
+    
+    
+    - Machine
+        - High / Low
+    - 
+
+
+NOTES: 05-11-2022
+
+HTML
+    - TAGS (aka Elements aka Containers)
+        Paired
+            <...> = opening tag
+                .... content or data or something...
+            </...> = closing tag
+        Unpaired (aka self closing tag)
+            <...>
+
+        Block Level
+            - which occupies the entire row of the parent container
+            - every block container will start in a new line
+        Inline
+            - whatever the size of the content, will be the size of the container
+            - 2 inline containers, can be shown in the same row (next to each other)
+
+Code Editors
+    - Editor
+    - IDE
+        Integrated Development Environment
+
+    DPI
+        Dots Per Inch
+
+Basic Coding Standards
+    - Meaningful names
+        file name
+        folder / project name
+        variable
+            - How to name?
+                cases
+                    - lower camel case
+                        first.html
+                        firstPage.html
+                        firstPageNextPage.html
+                    - upper camel case
+                        First.html
+                        FirstPage.html
+                        FirstPageNextPage.html
+                    - uppercase
+                        FIRSTPAGE.html
+                    - lowercase
+                        firstpage.html
+                    - dash case
+                        first.html
+                        first-page.html
+                    - snake case
+                        first.html
+                        first_page.html
+            - How not to name?
+                DONT USE SPACES
+                    first page.html
+    - Code Indent
+        Spaces
+            2 or 4 or 8
+
+ASCII
+    American Standard for Code Information and Interchange
+
+HTML Steps
+    - Open Visual Studio Code
+        - Create New Text File
+            - Save the file as <filename>.html
+    - Opening the file in the browser
+        - Open File Explorer
+            - Navigate to the folder where the .html file was saved
+            - Double Click on the file or Click once on the file and click on ENTER key
+        - Open File Explorer
+            - Navigate to the folder where the .html file was saved
+            - Click once on the file and RIGHT CLICK -> Open With -> <select your appropriate choice of browser>
+        - Open the Browser
+            - Click CTRL + O
+            - Navigate to the folder where the .html file was saved
+            - Double Click on the file or Click once on the file and click on Open button
+    - Open an existing file
+
+W3C
+    - World Wide Web Consortium
+
+Deprecated
+
+
+NOTES: 06-11-2022
+
+HTML Attributes
+    - Name/Value pairs
+
+    - Paired
+        name="<value>"
+    - Unpaired (self closing)
+        name
+
+    - Categories
+        - Core
+            Id
+            Class
+            Style
+            Title
+        - Generic
+            align
+        - Custom
+            data-<name>
+
+Website vs Webpage
+    - webpage is single document
+        www.dinesh.com/home.html
+    - website is collection of webpages
+        Home
+        About
+        Contact
+        Blog
+        Portfolio
+
+    URL
+        - uniform resource locator
+            www.domain.com/.in/.co.in
+                IP
+
+File Path
+    Relative Path
+    Absolute Path / Full Path 
+
+CORS
+    Cross Origing Resource Sharing
+
+HTML Measurements
+    px
+    %
+
+Table
+Tabular Column
+
+    <table>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td>
+                            <table>
+                                <tr>
+                                    <td>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
